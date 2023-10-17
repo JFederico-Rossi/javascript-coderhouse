@@ -65,7 +65,7 @@ while (operacion !== "0"){
         break;
     }
 
-    operacion = prompt("¿Qué operación querés realizar?\n 1 - Agregar productos a tu carrito\n 2 -  Ver el monto de tu carrito de compras\n 0 -  SALIR");
+    operacion = prompt("¿Querés seguir chusmeando nuestro sitio?\n 1 - Agregar productos a tu carrito\n 2 -  Ver el monto de tu carrito de compras\n 0 -  SALIR");
 }
 
 alert("Gracias por elegirnos. Esperamos verte de nuevo pronto por aquí")
