@@ -1,0 +1,8 @@
+[
+    { "id": "1", "nombre": "Yoga mats", "precio": 15 },
+    { "id": "2", "nombre": "Tibetan bowl", "precio": 75 },
+    { "id": "3", "nombre": "Yoga blocks", "precio": 20 },
+    { "id": "4", "nombre": "Buddha", "precio": 100 },
+    { "id": "5", "nombre": "Meditation bench", "precio": 45 },
+    { "id": "6", "nombre": "Gong", "precio": 60 }
+]
